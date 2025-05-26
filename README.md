@@ -10,6 +10,5 @@ A: The app currently resets scores each session. Future versions will include a 
 **Q: App is not loading?**  
 A: Please ensure your iOS version is 11.0 or higher.
 
-## Contact Us
-For more help, email us at: support@yourdomain.com  
-Or create an issue: [GitHub Issues](https://github.com/umitcel/mathmatik-support/issues)
+## Help
+create an issue: [GitHub Issues](https://github.com/umitcel/mathmatik-support/issues)
